@@ -6,8 +6,8 @@ export class Example extends Phaser.Scene
 
     preload ()
     {
-        this.load.image('block', './assets/circle.png');
-        this.load.image('wall','./assets/wall.png');
+        this.load.image('block', './public/circle.png');
+        this.load.image('wall','./public/wall.png');
     }
 
     create ()
