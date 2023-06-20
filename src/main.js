@@ -1,5 +1,7 @@
 import { Example } from "./scenes/Example";
 
+
+
 const config = {
     type: Phaser.AUTO,
     parent: 'game-container',
